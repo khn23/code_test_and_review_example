@@ -11,3 +11,6 @@
 - Set up GitHub Actions workflows for automated testing and code review.
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
+
+### Added
+ - add divide function 
