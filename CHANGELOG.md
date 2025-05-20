@@ -1,3 +1,3 @@
 ## [Unreleased]
 ### Added
--Added 'mean(
+-Added 'calculate_average' function in 'function.py' to perform average
