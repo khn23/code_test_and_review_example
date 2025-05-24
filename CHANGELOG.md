@@ -1,5 +1,3 @@
-# Changelog
-
 ## [1.0.0] - 2025-05-11
 
 ### Added
@@ -12,5 +10,10 @@
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
 
-### Added 
-- add power(a,b) function to funtion.py
+## [Unreleased]
+
+### Added
+
+- add `power(a, b)` function to `functions.py`
+- Added `multiply(a, b)` function in `functions.py` to perform multiplication.
+- Added `avg(a, b)` function in `functions.py` to calculate average.
