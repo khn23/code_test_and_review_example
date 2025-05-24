@@ -5,3 +5,7 @@ def add(a, b):
 def minus(a, b):
     """Subtract b from a."""
     return a - b
+
+def avg(a, b):
+    """average of a and b"""
+    return (a+b)/2
