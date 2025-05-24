@@ -18,3 +18,8 @@ def avg(a, b):
     """Average of a and b"""
     return (a + b) / 2
 
+def gcd(a, b):
+    while b:  # b가 0이 될 때까지 a와 b를 나누며 반복
+        a, b = b, a % b
+    return a
+

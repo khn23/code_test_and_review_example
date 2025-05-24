@@ -14,6 +14,8 @@
 
 ### Added
 
-- add `power(a, b)` function to `functions.py`
+- Added `power(a, b)` function to `functions.py`
 - Added `multiply(a, b)` function in `functions.py` to perform multiplication.
 - Added `avg(a, b)` function in `functions.py` to calculate average.
+- Added `gcd(a, b)` function in `functions.py` to perform gcd.
+
